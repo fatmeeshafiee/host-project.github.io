@@ -616,7 +616,9 @@ input,button{
     .header-icon{
         display: block;
     }
-    
+    .menu{
+        display: none;
+    }
     .menu-link{
         margin-bottom: 2rem;
         font-size: 1.2rem;
