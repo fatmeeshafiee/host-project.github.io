@@ -601,8 +601,7 @@ input,button{
         text-align: center;
     }
     .email-footer{
-        flex-basis: 0;
-        
+        flex-basis: 0; 
     }
 }
 
@@ -674,13 +673,11 @@ input,button{
     .copyright-logo{
         justify-content: space-between;
         width: 100%;
-    }
-    
+    } 
 }
 
 @media only screen and (max-width: 576px) {
     .container {
         max-width: 100%;
     }
-    
 }
