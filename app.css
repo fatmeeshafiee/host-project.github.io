@@ -616,19 +616,7 @@ input,button{
     .header-icon{
         display: block;
     }
-    .menu{
-       /* display: none;*/
-        position: fixed;
-        top: 0;
-        left: -256;
-        bottom: 0;
-        width: 16rem;
-        flex-direction: column;
-        padding: 2rem 3rem;
-        background: rgb(63 113 226);
-        transition: 0.7s all ;
-        margin: 0;
-    }
+    
     .menu-link{
         margin-bottom: 2rem;
         font-size: 1.2rem;
